@@ -1,3 +1,8 @@
+// 🚀 #LeetCode Problem: 80. Remove Duplicates from Sorted Array II
+// 🔗 Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+// 💡 Difficulty: Easy
+// ⌚ Solution Time: 15 minutes (approximate)
+
 /**
  * @param {number[]} nums
  * @return {number}
