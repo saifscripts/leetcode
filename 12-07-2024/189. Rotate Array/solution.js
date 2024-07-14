@@ -1,3 +1,8 @@
+// 🚀 #LeetCode Problem: 189. Rotate Array
+// 🔗 Link: https://leetcode.com/problems/rotate-array/
+// 💡 Difficulty: Medium
+// ⌚ Solution Time: 15 minutes (approximate)
+
 /**
  * @param {number[]} nums
  * @param {number} k

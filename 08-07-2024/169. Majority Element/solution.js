@@ -1,3 +1,8 @@
+// 🚀 #LeetCode Problem: 169. Majority Element
+// 🔗 Link: https://leetcode.com/problems/majority-element/
+// 💡 Difficulty: Easy
+// ⌚ Solution Time: 30 minutes (approximate)
+
 /**
  * @param {number[]} nums
  * @return {number}

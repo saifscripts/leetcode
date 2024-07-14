@@ -1,3 +1,8 @@
+// 🚀 #LeetCode Problem: 58. Length of Last Word
+// 🔗 Link: https://leetcode.com/problems/length-of-last-word/
+// 💡 Difficulty: Easy
+// ⌚ Solution Time: 3 minutes
+
 /**
  * @param {string} s
  * @return {number}
