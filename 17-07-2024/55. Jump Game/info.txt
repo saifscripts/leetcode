@@ -1,0 +1,9 @@
+🚀 #LeetCode Problem: 55. Jump Game
+
+This was the toughest for me (🥸). The first solution that came to my mind was exceeding time limits. After more than hours of trying, I was finally able to find a simple solution. Simplicity is a difficult thing to achieve (😁).
+
+🔗 Link: https://leetcode.com/problems/jump-game/
+💡 Difficulty: Medium
+⌚ Solution Time: 1.5+ hrs
+
+#programming #problemsolving #coding #javascript
